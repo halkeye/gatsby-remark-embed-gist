@@ -1,4 +1,6 @@
 # gatsby-remark-embed-gist
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/halkeye/gatsby-remark-embed-gist.svg)](https://greenkeeper.io/)
 Embed a Github Gist in your Markdown
 
 
